@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="emptytodo">Your todo list is empty. Create a new one.</string>
+    <string name="newtodo">New Todo</string>
+    <string name="todotitle">Todo Title</string>
+    <string name="todonotes">Notes</string>
+    <string name="priority">Priority</string>
+    <string name="highpriority">High Priority</string>
+    <string name="mediumpriority">Medium Priority</string>
+    <string name="lowpriority">Low Priority</string>
+</resources>
